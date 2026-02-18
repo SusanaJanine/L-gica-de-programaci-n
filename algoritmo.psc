@@ -1,7 +1,8 @@
 Algoritmo RestaurantedeHamburguesas
 
 Definir tipo, pagoTarjeta, repetir Como Caracter
-Definir precio, cantidad, Total, TotalconCargo, Cargo Como Real
+Definir cantidad Como Entero
+Definir precio, Total, TotalconCargo, Cargo Como Real
 
 Repetir
 
